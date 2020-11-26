@@ -4,7 +4,8 @@ cache: apt
 
 sudo: false
 
-dist: trusty
+
+dist: trysty
 
 os:
   - linux
