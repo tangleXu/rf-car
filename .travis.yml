@@ -2,10 +2,8 @@ language: c
 
 cache: apt
 
-sudo: false
 
-
-dist: trysty
+dist: trusty
 
 os:
   - linux
